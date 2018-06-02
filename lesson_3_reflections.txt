@@ -1,1 +1,7 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+     Keeping projects local presents the problems faced with collaboration that were 
+     mentioned at the beginning of this course; sharing a concurrent, multi-file project
+     is unwieldy at best. Remote repositories eanble project team members to push their 
+     branches to a central hub where all members can see the changes and retrieve the 
+     latest file with ease. 
