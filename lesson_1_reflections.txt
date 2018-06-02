@@ -1,0 +1,55 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Seen it before, but actually using a Windows command prompt command helped 
+	de-mystify the process of version control for me
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If an error popped up in development with code, I could look at previously 
+	working code and see where I went wrong.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Losing material would be devestating, but if I work remotely on an aspect of 
+	a project, I could auto-save the local file until I get it working and then 
+	commit to Git so only working code for a project is on a Git repository.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git has its service geared for project completion, where a project has many hands
+	working on it and multiple moving components. Most docs are the completed prject, 
+	as in a paper will be formatted into a single document, but OOP will likely have
+	multiple files all being changed until a finalized product is produced.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log and git diff are used to view branch history and differences between nodes,
+       resepctively.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I have a backup that works! Increasing functionality will greatly enhance my project
+	and I will feel better about making changes to it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Developing an app with a fellow SJSU alumnus.
+	
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+	Having easy access to previous versions of a project will help see when/where modules
+	of a project were added, and discern what they do. Maybe analogous for a watchmaker to 
+	be able remove a single gear and see how it affects the other moving parts around them.
+	
+Notes for this lesson:
+	
+	Part 6 gives commands for Command Prompt whereas the workspace setup for Sublime 
+	is for Git. A better way would be to make sure both ways are available for both
+	Command Prompt and Git.
