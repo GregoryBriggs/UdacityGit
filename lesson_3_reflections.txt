@@ -5,3 +5,8 @@ When would you want to use a remote repository rather than keeping all your work
      is unwieldy at best. Remote repositories eanble project team members to push their 
      branches to a central hub where all members can see the changes and retrieve the 
      latest file with ease. 
+
+  Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  
+       If you are making changes to a portion of a project, having it run off the last stable build may eliminate the need to constantly
+       review code that had been pushed to the master and update the cod-in-progress before one's component is finished.  
