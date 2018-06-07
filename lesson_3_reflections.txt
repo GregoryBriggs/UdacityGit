@@ -16,3 +16,9 @@ instead of another?
 	forking may not be ideal for proprietary collaboration (just a WAG). In any case, 
 	forking to build upon an abandoned project or a base project that will deliminate 
 	from the author's original intent may be desireable as well.
+	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It will be easier to track down and identify bugs. Programming files on the go is also 
+	a vital technique when internet connection is not present, allowing progress to be made
+	while offline on any local repository.
