@@ -5,3 +5,14 @@ When would you want to use a remote repository rather than keeping all your work
      is unwieldy at best. Remote repositories eanble project team members to push their 
      branches to a central hub where all members can see the changes and retrieve the 
      latest file with ease. 
+
+Describe the differences between forks, clones, and branches. Whe would you use one 
+instead of another?
+
+	You can clone a fork, where forks are used to build upon other's work and cloning is 
+	used to build on a project off a git repository. Branches operate on themselves and 
+	are useful for creating new features. Cloning and forking are both useful for 
+	collaboration, but cloning from a private branch may retain a secure project whereas
+	forking may not be ideal for proprietary collaboration (just a WAG). In any case, 
+	forking to build upon an abandoned project or a base project that will deliminate 
+	from the author's original intent may be desireable as well.
