@@ -6,8 +6,13 @@ When would you want to use a remote repository rather than keeping all your work
      branches to a central hub where all members can see the changes and retrieve the 
      latest file with ease. 
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  
+    If you are making changes to a portion of a project, having it run off the last stable build may eliminate the need to constantly
+    review code that had been pushed to the master and update the cod-in-progress before one's component is finished.  
+	
 Describe the differences between forks, clones, and branches. Whe would you use one 
-instead of another?
+	instead of another?
 
 	You can clone a fork, where forks are used to build upon other's work and cloning is 
 	used to build on a project off a git repository. Branches operate on themselves and 
@@ -22,3 +27,4 @@ What is the benefit of having a copy of the last known state of the remote store
 	It will be easier to track down and identify bugs. Programming files on the go is also 
 	a vital technique when internet connection is not present, allowing progress to be made
 	while offline on any local repository.
+
