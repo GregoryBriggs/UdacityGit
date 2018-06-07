@@ -28,3 +28,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	a vital technique when internet connection is not present, allowing progress to be made
 	while offline on any local repository.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I have tried collaborating without GitHub and what ends up happening is one person does all the work.
+	Lack of coordinating updates on files in a project between collaborators winds up isolating individuals
+	and causing conflict with version control. 
