@@ -33,3 +33,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I have tried collaborating without GitHub and what ends up happening is one person does all the work.
 	Lack of coordinating updates on files in a project between collaborators winds up isolating individuals
 	and causing conflict with version control. 
+	
+When would you want to make changes in a separate branch rather than directly in master? What 
+	benefits does each approach have?
+	
+	Branching from master allows for more changes to be made without the risk of impacting 
+	a working version of a project. Directly updating master will allow one version to be 
+	updated and tracking down bugs by comparing other versions may be easier than viewing 
+	nested branches from a multi-branched project. `
